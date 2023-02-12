@@ -247,10 +247,14 @@
         public $fname;
         public $mname;
         public $lname;
+        public $dob;
+        public $address;
+        public $phone_number;
+        public $person_id;
     }
     class galery {
         public $galery_id;
-
+        public $name;
         
     }
 
