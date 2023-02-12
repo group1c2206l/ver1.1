@@ -242,8 +242,15 @@
 
     }
 
+    class employee {
+        public $employee_id;
+        public $fname;
+        public $mname;
+        public $lname;
+    }
     class galery {
         public $galery_id;
+
         
     }
 
